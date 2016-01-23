@@ -2,8 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="TVP 1" group-title="IPTV",TVP 1 HD
-rtmp://149.202.68.200/live playpath=jedynka1 swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1452426808759 live=1 pageUrl=http://looknij.tv/?port=tvp1
 
 #EXTINF:-1 tvg-id="TVP 1" group-title="IPTV",TVP 1 HD
 rtmp://weeb.tv.itivi.pl/live/ playpath=tvp1sd swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVP_1_HD
