@@ -30,7 +30,7 @@ rtmp://144.76.154.14/live playpath=tvn24 swfUrl=http://looknij.tv/wp-content/plu
 #EXTINF:-1 tvg-id="TVN Turbo" group-title="IPTV",TVN Turbo
 rtmp://weeb.tv.itivi.pl/live/ playpath=S4 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVN_TURBO
 
-#EXTINF:-1 tvg-id="TVN Style" group-title="IPTV",TVN Styl
+#EXTINF:-1 tvg-id="TVN Style" group-title="IPTV",TVN Style
 rtmp://149.202.74.239/live playpath=tvnstyle swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754531565 live=1 pageUrl=http://looknij.tv/?port=tvn-style
 
 #EXTINF:-1 tvg-id="TVN 7" group-title="IPTV",TVN 7
@@ -79,7 +79,7 @@ rtmp://weeb.tv.itivi.pl/live/ playpath=canal2sd swfUrl=http://itivi.pl/js/jwplay
 #EXTINF:-1 tvg-id="HBO" group-title="IPTV",HBO
 rtmp://144.76.154.14/live playpath=hbohd swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754764444 live=1 pageUrl=http://looknij.tv/?port=hbo
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="IPTV",HBO2
+#EXTINF:-1 tvg-id="HBO 2" group-title="IPTV",HBO 2
 rtmp://144.76.154.14/live playpath=hbo2 swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754069520 live=1 pageUrl=http://looknij.tv/?port=hbo-2
 
 #EXTINF:-1 tvg-id="HBO Comedy" group-title="IPTV",HBO Comedy
@@ -192,7 +192,7 @@ rtmp://195.154.217.247:80/liverepeater playpath=142177 swfUrl=http://cdn.deltatv
 
 
 
-#EXTINF:-1 tvg-id="TELETOON" group-title="IPTV",TELETOON
+#EXTINF:-1 tvg-id="TELETOON+" group-title="IPTV",TELETOON+
 rtmp://149.202.74.234/live/ playpath=teletoon swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1453027569330 live=1 pageUrl=http://looknij.tv/?port=teletoon
 
 #EXTINF:-1 tvg-id="Minimini+" group-title="IPTV",Minimini+
@@ -201,29 +201,12 @@ rtmp://85.10.208.218/live/ playpath=mimimimiplus swfUrl=http://cinema-tv.pl/wp-c
 
 
 
-#EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
-rtmp://weeb.tv.itivi.pl/live/ playpath=CH500?user=demo&pass=demopassword swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/NSPORT_HD
 
 #EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
 rtmp://195.154.217.247:80/liverepeater playpath=142191 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142191&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="Eurosport" group-title="IPTV",Eurosport
-rtmp://85.10.208.218/live/ playpath=eurosport swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753417164 live=1 pageUrl=http://looknij.tv/?port=eurosport
-
 #EXTINF:-1 tvg-id="Eurosport" group-title="IPTV",Eurosport 
 http://inea.live.e238-po.insyscd.net/eurosport.smil/chunklist_b2400000.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://144.76.154.14/live playpath=eurosport2hd swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753472672 live=1 pageUrl=http://looknij.tv/?port=eurosport-2
-
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://195.154.217.247:80/liverepeater playpath=147550 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147550&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://195.154.217.247:80/liverepeater playpath=142202 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142202&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://weeb.tv.itivi.pl/live/ playpath=CH174?user=demo&pass=demopassword swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/EURO_SPORT
 
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2 
 http://inea.live.e238-po.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u8
@@ -237,14 +220,8 @@ http://motorsport.hopto.org:8080
 #EXTINF:-1 tvg-id="Motowizja" group-title="IPTV",Motowizja
 rtmp://weeb.tv.itivi.pl/live/ playpath=S1 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/MOTOWIZJA
 
-#EXTINF:-1 tvg-id="Motowizja" group-title="IPTV",Motowizja
-rtmp://144.76.154.14/live playpath=motowizja swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1452427985700 live=1 pageUrl=http://looknij.tv/?port=motowizja
-
 #EXTINF:-1 tvg-id="Eleven" group-title="IPTV",Eleven
 rtmp://85.10.208.218/live/ playpath=eleven swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753016879 live=1 pageUrl=http://looknij.tv/?port=eleven
-
-#EXTINF:-1 tvg-id="Eleven Sport" group-title="IPTV",Eleven Sport
-rtmp://85.10.208.218/live/ playpath=elevensport swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753217974 live=1 pageUrl=http://looknij.tv/?port=11-sport
 
 #EXTINF:-1 tvg-id="Orange Sport" group-title="IPTV",Orange Sport
 rtmp://144.76.154.14/live playpath=orangesport swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451752953990 live=1 pageUrl=http://looknij.tv/?port=orange-sport
@@ -252,7 +229,7 @@ rtmp://144.76.154.14/live playpath=orangesport swfUrl=http://looknij.tv/wp-conte
 
 
 
-#EXTINF:-1,tvg-id="Republika TV" group-title="IPTV",Republika TV
+#EXTINF:-1,tvg-id="TV Republika" group-title="IPTV",TV Republika
 http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
 
 #EXTINF:-1,tvg-id="TV Trwam" group-title="IPTV",TV Trwam
@@ -298,8 +275,6 @@ rtmp://213.241.89.148/popler_publishlive playpath=rebeltv swfUrl=http://www.popl
 #EXTINF:-1,tvg-id="Czworka" group-title="Muzyka",Czworka
 rtmp://stream85.polskieradio.pl/video/czworka.sdp
 
-#EXTINF:-1,tvg-id="Tuba TV" group-title="Muzyka",Tuba TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv live=1
 
 
 
@@ -307,12 +282,6 @@ rtmp://fms.gazeta.pl/aglive/tuba_tv live=1
 
 #EXTINF:-1 tvg-id="Retro TV" group-title="IPTV",Retro TV
 rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1 swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en live=true swfVfy=true
-
-#EXTINF:-1,tvg-id="ITV" group-title="IPTV",ITV
-mms://stream.mni.pl/ITV
-
-#EXTINF:-1 tvg-id="iPol" group-title="IPTV",iPol
-http://46.229.232.80:1935/ipoltv/ipoltv.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Twoja TV" group-title="IPTV",Twoja TV
 http://94.246.169.19/ttv_hls/live_270p/index.m3u8
