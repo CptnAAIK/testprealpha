@@ -15,13 +15,10 @@ rtmp://149.202.68.200/live/ playpath=tvp2 swfUrl=http://looknij.tv/wp-content/pl
 rtmp://195.154.217.247:80/liverepeater playpath=148472 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148472&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TVP 2" group-title="IPTV",TVP 2 HD
-rtmp://195.154.217.247:80/liverepeater playpath=147311 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147311&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.217.247:80/liverepeater playpath=142331 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142331&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TVP 2" group-title="IPTV",TVP 2 HD
 rtmp://weeb.tv.itivi.pl/live/ playpath=tvp2sd swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVP_2
-
-#EXTINF:-1 tvg-id="TVP 2" group-title="IPTV",TVP 2 HD
-rtmp://204.45.157.34/app playpath=17127?MTQ1MzAzMDE5NDsxMmFiZGM3NTA5M2M0NWU5NzkxOGYwMWNiOWIwOWE0Yw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d5463794e7a51325a6a5a6c4d7a457a4d6a5a6c/e495b32ccd9b
 
 
 
@@ -35,24 +32,14 @@ http://195.245.213.230/live/tvpinfo.isml/tvpinfo-audio=96000-video=120000.m3u8
 #EXTINF:-1 tvg-id="TVP Info" group-title="IPTV",TVP Info
 rtmp://31.220.0.13/privatestream/ playpath=info24?keys=cTaWbNSY1-c2HPOrY3atig&keyt=1453043377 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=info24&width=660&height=430
 
+#EXTINF:-1,tvg-id="TVP HD" group-title="IPTV",TVP HD
+rtmp://195.154.217.247:80/liverepeater playpath=142622 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142622&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
 #EXTINF:-1,tvg-id="TVP Seriale" group-title="IPTV",TVP Seriale
 rtmp://149.202.74.239/live playpath=tvpseriale swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753812258 live=1 pageUrl=http://looknij.tv/?port=tvp-seriale
 
 #EXTINF:-1,tvg-id="TVP Seriale" group-title="IPTV",TVP Seriale
-rtmp://195.154.217.247:80/liverepeater playpath=148519 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148519&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1,tvg-id="TVP Seriale" group-title="IPTV",TVP Seriale
 rtmp://weeb.tv.itivi.pl/live/ playpath=S10 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVP_SERIALE
-
-#EXTINF:-1,tvg-id="TVP Sport" group-title="IPTV",TVP Sport
-rtmp://195.154.217.247:80/liverepeater playpath=147307 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147307&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1,tvg-id="TVP Sport" group-title="IPTV",TVP Sport
-rtmp://195.154.217.247:80/liverepeater playpath=147453 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147453&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1,tvg-id="TVP Sport" group-title="IPTV",TVP Sport
-rtmp://86.106.137.13/live?token=jUxE13-qwFsEwYCjyv5BFQExpired=1453034509 playpath=ver312ad4a3aa58be4f0a2230 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://abcast.net/embed.php?file=chsport&width=660&height=430
-
 
 
 
@@ -62,13 +49,10 @@ rtmp://86.106.137.13/live?token=jUxE13-qwFsEwYCjyv5BFQExpired=1453034509 playpat
 rtmp://149.202.74.239/live playpath=tvn swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754397515 live=1 pageUrl=http://looknij.tv/?port=tvn
 
 #EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
-rtmp://195.154.217.247:80/liverepeater playpath=147315 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147315&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
-rtmp://195.154.217.247:80/liverepeater playpath=130588 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130588&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
 rtmp://195.154.217.247:80/liverepeater playpath=148787 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148787&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
+rtmp://195.154.217.247:80/liverepeater playpath=142329 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142329&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
 rtmp://weeb.tv.itivi.pl/live/ playpath=S8 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVN
@@ -77,19 +61,16 @@ rtmp://weeb.tv.itivi.pl/live/ playpath=S8 swfUrl=http://itivi.pl/js/jwplayer-7.0
 http://217.113.147.170:9981/stream/channelid/7
 
 #EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
-rtmp://195.154.217.247:80/liverepeater playpath=146827 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=146827&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
-rtmp://195.154.217.247:80/liverepeater playpath=147314 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147314&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
 rtmp://144.76.154.14/live playpath=tvn24 swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1452427130234 live=1 pageUrl=http://looknij.tv/?port=tvn-24
+
+#EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
+rtmp://195.154.217.247:80/liverepeater playpath=142343swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142343&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
+rtmp://195.154.217.247:80/liverepeater playpath=142638 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142638&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TVN Turbo" group-title="IPTV",TVN Turbo
 rtmp://149.202.74.239/live playpath=tvnturbo swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754484844 live=1 pageUrl=http://looknij.tv/?port=tvn-turbo
-
-#EXTINF:-1 tvg-id="TVN Turbo" group-title="IPTV",TVN Turbo
-rtmp://195.154.217.247:80/liverepeater playpath=147313 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147313&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TVN Turbo" group-title="IPTV",TVN Turbo
 rtmp://weeb.tv.itivi.pl/live/ playpath=S4 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVN_TURBO
@@ -116,47 +97,37 @@ rtmp://149.202.74.234/live/ playpath=polsat swfUrl=http://looknij.tv/wp-content/
 rtmp://195.154.217.247:80/liverepeater playpath=148666 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148666&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
+rtmp://195.154.217.247:80/liverepeater playpath=142323 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142323&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
+rtmp://195.154.217.247:80/liverepeater playpath=142641 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142641&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
 http://217.113.147.170:9981/stream/channelid/8
 
 #EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
 rtmp://weeb.tv.itivi.pl/live/ playpath=S11 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/POLSAT_2
 
-#EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
-rtmp://50.7.28.98/app playpath=17129?MTQ1MzAzMDI4NjswYjFkNDhhNzc1N2EwZDdkNWQ0MzI5MzMzZmEzN2FkYg== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a5132595463314e6d55324f545a6d4e7a497a4d544d79/46005c241ff1
+#EXTINF:-1 tvg-id="Polsat 2" group-title="IPTV",Polsat 2
+rtmp://195.154.217.247:80/liverepeater playpath=142324 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142324&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Polsat 2" group-title="IPTV",Polsat 2
-rtmp://50.7.28.82/app playpath=17130?MTQ1MzAyODEzNTtkNjJmODI4MGRhOTY2ZDBhOTRhMGI4NmQ3OGM5NjcyZA== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a67324e4459304e6a6b334d7a5a6c4e6a55334f544d784d7a49324d7a5a6d4e7a413d/a9b0e2758bb5
+rtmp://195.154.217.247:80/liverepeater playpath=142623 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142623&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Polsat Film" group-title="IPTV",Polsat Film
 rtmp://149.202.74.239/live playpath=polsatfilm swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754248553 live=1 pageUrl=http://looknij.tv/?port=polsat-film
 
-#EXTINF:-1 tvg-id="Polsat Film" group-title="IPTV",Polsat Film
-rtmp://195.154.217.247:80/liverepeater playpath=147937 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147937&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Polsat Film" group-title="IPTV",Polsat Film
-rtmp://195.154.217.247:80/liverepeater playpath=148514 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148514&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-id="Polsat News" group-title="IPTV",Polsat News 
 rtmp://149.202.74.239/live playpath=polsatnews swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1452428157970 live=1 pageUrl=http://looknij.tv/?port=polsat-news
 
-#EXTINF:-1 tvg-id="Polsat Sport " group-title="IPTV",Polsat Sport 
-rtmp://195.154.217.247:80/liverepeater playpath=147932 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147932&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Polsat Sport " group-title="IPTV",Polsat Sport 
-rtmp://195.154.217.247:80/liverepeater playpath=148673 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148673&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Polsat Sport " group-title="IPTV",Polsat Sport 
-rtmp://89.33.8.14/live?token=xbPK_quQ1EYFvvrgfgf2MwExpired=1453034437 playpath=ver9af6c384e59827b06ed16a swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://abcast.net/embed.php?file=chsportpolsat&width=660&height=430
+#EXTINF:-1 tvg-id="Polsat News" group-title="IPTV",Polsat News 
+rtmp://195.154.217.247:80/liverepeater playpath=142326 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142326&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Polsat Sport News" group-title="IPTV",Polsat Sport News 
 http://217.113.147.170:9981/stream/channelid/3
 
 #EXTINF:-1 tvg-id="Polsat Sport News" group-title="IPTV",Polsat Sport News
 rtmp://149.202.74.234/live/ playpath=snpolsat swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753933657 live=1 pageUrl=http://looknij.tv/?port=polsat-sport-news
-
-#EXTINF:-1 tvg-id="Polsat Sport News" group-title="IPTV",Polsat Sport News
-rtmp://86.106.137.10/live?token=jrnbxRjMxhoo9Mxqj3H2hwExpired=1453034579 playpath=ver6b15cff814a5f25209f40e swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://abcast.net/embed.php?file=cinematv&width=660&height=440
-
 
 
 
@@ -165,28 +136,19 @@ rtmp://86.106.137.10/live?token=jrnbxRjMxhoo9Mxqj3H2hwExpired=1453034579 playpat
 rtmp://149.202.74.239/live playpath=canalhd swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753663307 live=1 pageUrl=http://looknij.tv/?port=canal
 
 #EXTINF:-1 tvg-id="Canal+" group-title="IPTV",Canal+
-rtmp://195.154.217.247:80/liverepeater playpath=147450 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147450&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Canal+" group-title="IPTV",Canal+
-rtmp://195.154.217.247:80/liverepeater playpath=148508 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148508&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Canal+" group-title="IPTV",Canal+
-rtmp://195.154.217.247:80/liverepeater playpath=147925 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147925&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="Canal+" group-title="IPTV",Canal+
 rtmp://weeb.tv.itivi.pl/live/ playpath=S7 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/canal_plus_
 
-#EXTINF:-1 tvg-id="Canal+ Family" group-title="IPTV",Canal+ Family 
-rtmp://195.154.217.247:80/liverepeater playpath=148513 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148513&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="Canal+ Film" group-title="IPTV",Canal+ Film
+rtmp://195.154.217.247:80/liverepeater playpath=142287 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142287&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="Canal+ Film" group-title="IPTV",Canal+ Film 
-rtmp://195.154.217.247:80/liverepeater playpath=147928 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147928&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="Canal+ Family" group-title="IPTV",Canal+ Family
+rtmp://195.154.217.247:80/liverepeater playpath=142176 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142176&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="Canal+ Film" group-title="IPTV",Canal+ Film 
-rtmp://195.154.217.247:80/liverepeater playpath=148509 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148509&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="Canal+ Family" group-title="IPTV",Canal+ Family
+rtmp://195.154.217.247:80/liverepeater playpath=142286 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142286&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="Canal+ Sport" group-title="IPTV",Canal+ Sport 
-rtmp://195.154.217.247:80/liverepeater playpath=147447 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147447&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 tvg-id="Canal+ Sport" group-title="IPTV",Canal+ Sport
+rtmp://195.154.217.247:80/liverepeater playpath=142283 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142283&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Canal+ Sport 2" group-title="IPTV",Canal+ Sport 2
 rtmp://149.202.74.234/live/ playpath=canal2sport2 swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451752736975 live=1 pageUrl=http://looknij.tv/?port=canal-sport-2
@@ -194,8 +156,6 @@ rtmp://149.202.74.234/live/ playpath=canal2sport2 swfUrl=http://looknij.tv/wp-co
 #EXTINF:-1 tvg-id="Canal+ Sport 2" group-title="IPTV",Canal+ Sport 2
 rtmp://weeb.tv.itivi.pl/live/ playpath=canal2sd swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/CANAL_SPORT
 
-#EXTINF:-1 tvg-id="Canal+ Sport 2" group-title="IPTV",Canal+ Sport 2
-rtmp://86.106.137.10/live?token=ZxLhjgzqRCKGpBITwfozxAExpired=1453034378 playpath=ver919e3c01681eba490f0c86 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://abcast.net/embed.php?file=canalsportdwa&width=650&height=430
 
 
 
@@ -205,17 +165,11 @@ rtmp://144.76.154.14/live playpath=hbohd swfUrl=http://looknij.tv/wp-content/plu
 #EXTINF:-1 tvg-id="HBO" group-title="IPTV",HBO
 rtmp://195.154.217.247:80/liverepeater playpath=147592 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147592&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 tvg-id="HBO" group-title="IPTV",HBO
-rtmp://195.154.217.247:80/liverepeater playpath=147923 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147923&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="HBO" group-title="IPTV",HBO
-rtmp://195.154.217.247:80/liverepeater playpath=148502 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148502&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-id="HBO2" group-title="IPTV",HBO2
 rtmp://144.76.154.14/live playpath=hbo2 swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754069520 live=1 pageUrl=http://looknij.tv/?port=hbo-2
 
 #EXTINF:-1 tvg-id="HBO2" group-title="IPTV",HBO2
-rtmp://195.154.217.247:80/liverepeater playpath=148504 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148504&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.217.247:80/liverepeater playpath=142174 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142174&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="HBO Comedy" group-title="IPTV",HBO Comedy
 rtmp://144.76.154.14/live/ playpath=hbocom swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753989122 live=1 pageUrl=http://looknij.tv/?port=hbo-comedy
@@ -256,26 +210,17 @@ http://inea.live.e238-po.insyscd.net/filmboxextra.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-id="TV 4" group-title="IPTV",TV 4
 http://217.113.147.170:9981/stream/channelid/6
 
-#EXTINF:-1 tvg-id="TV 6" group-title="IPTV",TV 6
-http://217.113.147.170:9981/stream/channelid/1
+#EXTINF:-1 tvg-id="TV 4" group-title="IPTV",TV 4
+rtmp://195.154.217.247:80/liverepeater playpath=142330 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142330&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="TV 6" group-title="IPTV",TV 6
-http://207.110.52.50/s//hls/tv6_245/rfM8kqL2M3YGhdPc1b7haA/1453093200/index.m3u8
+http://217.113.147.170:9981/stream/channelid/1
 
 #EXTINF:-1 tvg-id="TV Puls" group-title="IPTV",TV Puls
 http://217.113.147.170:9981/stream/channelid/5
 
 #EXTINF:-1 tvg-id="TV Puls" group-title="IPTV",TV Puls
-rtmp://195.154.217.247:80/liverepeater playpath=148575swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148575&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TV Puls" group-title="IPTV",TV Puls
-rtmp://195.154.217.247:80/liverepeater playpath=147318 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147318&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TV Puls" group-title="IPTV",TV Puls
 rtmp://85.10.208.218/live/ playpath=puls swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753124163 live=1 pageUrl=http://looknij.tv/?port=tv-puls
-
-#EXTINF:-1 tvg-id="TV Puls" group-title="IPTV",TV Puls
-rtmp://50.7.28.98/app playpath=17157?MTQ1MzAzMDM4NDtmN2RlY2U1YmYzMmRjNjRlNTljYjlmMGQ5OWY2MzhiMw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324e6a59784e6d51324f545a6a4e7a6b7a4d544d794e7a63324e513d3d/05b7bf04a14b
 
 #EXTINF:-1 tvg-id="PULS 2" group-title="IPTV",PULS 2
 http://217.113.147.170:9981/stream/channelid/2
@@ -301,10 +246,6 @@ rtmp://149.202.74.234/live playpath=alekino swfUrl=http://looknij.tv/wp-content/
 #EXTINF:-1 tvg-id="SUNDANCE CHANNEL" group-title="IPTV",SUNDANCE CHANNEL
 http://inea.live.e238-po.insyscd.net/sundancechannelhd.smil/chunklist_b2400000.m3u8
 
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="IPTV",Paramount Channel
-rtmp://195.154.217.247:80/liverepeater playpath=148517 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148517&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-
 
 
 
@@ -324,9 +265,6 @@ http://inea.live.e238-po.insyscd.net/natgeowildhd.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" group-title="IPTV",Discovery Channel 
 http://inea.live.e238-po.insyscd.net/discoverychannelhd.smil/chunklist_b2400000.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="IPTV",Discovery Channel
-rtmp://195.154.217.247:80/liverepeater playpath=148679 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=148679&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-id="Discovery Science" group-title="IPTV",Discovery Science
 http://inea.live.e238-po.insyscd.net/discoveryscience.smil/chunklist_b2400000.m3u8
 
@@ -335,9 +273,6 @@ http://inea.live.e238-po.insyscd.net/animalplanet.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Historia" group-title="IPTV",Discovery Historia
 rtmp://weeb.tv.itivi.pl/live/ playpath=S14 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/DISCOVERY_HISTORIA
-
-#EXTINF:-1 tvg-id="Discovery Historia" group-title="IPTV",Discovery Historia
-rtmp://195.154.217.247:80/liverepeater playpath=147919 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147919&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Discovery Historia" group-title="IPTV",Discovery Historia
 rtmp://144.76.154.14/live playpath=dhistoria swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1452427729085 live=1 pageUrl=http://looknij.tv/?port=discovery-historia
@@ -358,20 +293,19 @@ http://s4w.deb1.scdn.smcloud.net/live/_definst_/fokustv/chunklist_w2048299294.m3
 http://inea.live.e238-po.insyscd.net/travelchannel.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="TLC" group-title="IPTV",TLC
-rtmp://195.154.217.247:80/liverepeater playpath=147317 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147317&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="TLC" group-title="IPTV",TLC
 http://inea.live.e238-po.insyscd.net/tlchd.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="ID" group-title="IPTV",ID
 http://inea.live.e238-po.insyscd.net/id.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="ID" group-title="IPTV",ID
-rtmp://195.154.217.247:80/liverepeater playpath=147917 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147917&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.217.247:80/liverepeater playpath=142304 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142304&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Superstacja" group-title="IPTV",Superstacja
 http://inea.live.e238-po.insyscd.net/superstacja.smil/chunklist_b2400000.m3u8
 
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="IPTV",Paramount Channel
+rtmp://195.154.217.247:80/liverepeater playpath=142177 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142177&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 
 
@@ -379,31 +313,17 @@ http://inea.live.e238-po.insyscd.net/superstacja.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-id="TELETOON" group-title="IPTV",TELETOON
 rtmp://149.202.74.234/live/ playpath=teletoon swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1453027569330 live=1 pageUrl=http://looknij.tv/?port=teletoon
 
-#EXTINF:-1 tvg-id="Disney Channel" group-title="IPTV",Disney Channel
-rtmp://195.154.217.247:80/liverepeater playpath=146894 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=146894&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
 #EXTINF:-1 tvg-id="Minimini+" group-title="IPTV",Minimini+
 rtmp://85.10.208.218/live/ playpath=mimimimiplus swfUrl=http://cinema-tv.pl/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.5 live=1 pageUrl=http://cinema-tv.pl/bajki/minimini/
 
-#EXTINF:-1 tvg-id="Disney XD" group-title="IPTV",Disney XD
-http://207.110.52.54/s//hls/disney_xd_polska_238/07IsTS8vM-nGN8QxLT5N0A/1453093200/index.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
-rtmp://195.154.217.247:80/liverepeater playpath=147319 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147319&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
-rtmp://195.154.217.247:80/liverepeater playpath=147451 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147451&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
 rtmp://weeb.tv.itivi.pl/live/ playpath=CH500?user=demo&pass=demopassword swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/NSPORT_HD
 
-
 #EXTINF:-1 tvg-id="nSport" group-title="IPTV",nSport
-rtmp://86.106.137.10/live?token=traZQBU3fl1pV05RCgkn2QExpired=1453034666 playpath=ver6b7244b4de9b5bb8c7658f swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://abcast.net/embed.php?file=canalsportowy&width=660&height=440
+rtmp://195.154.217.247:80/liverepeater playpath=142191 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142191&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="IPTV",Eurosport
 rtmp://85.10.208.218/live/ playpath=eurosport swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753417164 live=1 pageUrl=http://looknij.tv/?port=eurosport
@@ -415,10 +335,10 @@ http://inea.live.e238-po.insyscd.net/eurosport.smil/chunklist_b2400000.m3u8
 rtmp://144.76.154.14/live playpath=eurosport2hd swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451753472672 live=1 pageUrl=http://looknij.tv/?port=eurosport-2
 
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://195.154.217.247:80/liverepeater playpath=147446 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147446&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.217.247:80/liverepeater playpath=147550 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147550&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
-rtmp://195.154.217.247:80/liverepeater playpath=147550 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=147550&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmp://195.154.217.247:80/liverepeater playpath=142202 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142202&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="IPTV",Eurosport 2
 rtmp://weeb.tv.itivi.pl/live/ playpath=CH174?user=demo&pass=demopassword swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/EURO_SPORT
