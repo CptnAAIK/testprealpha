@@ -34,10 +34,10 @@ http://inea.live.e238-po.insyscd.net/tvnstylehd.smil/chunklist_2400000.m3u8
 #EXTINF:-1 tvg-id="TVN 7" group-title="IPTV",TVN 7
 http://217.113.147.170:9981/stream/channelid/4
 
-#EXTINF:-1 tvg-id="TVN BiS" group-title="IPTV",TVN BiS
+#EXTINF:-1 tvg-id="TVN 24 BiS" group-title="IPTV",TVN 24 BiS
 http://inea.live.e238-po.insyscd.net/tvnbis.smil/chunklist_2400000.m3u8
 
-#EXTINF:-1 tvg-id="TVN METEO ACTIVE" group-title="IPTV",TVN METEO ACTIVE
+#EXTINF:-1 tvg-id="TVN Meteo" group-title="IPTV",TVN Meteo
 http://inea.live.e238-po.insyscd.net/tvnmeteoactive.smil/chunklist_2400000.m3u8
 
 
