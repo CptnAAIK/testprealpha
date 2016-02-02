@@ -60,8 +60,27 @@ rtmp://149.202.74.239/live playpath=polsatfilm swfUrl=http://looknij.tv/wp-conte
 #EXTINF:-1 tvg-id="Polsat News" group-title="IPTV",Polsat News 
 rtmp://195.154.217.247:80/liverepeater playpath=142326 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142326&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
+#EXTINF:-1 tvg-id="Polsat News 2" group-title="IPTV",Polsat News 2
+http://inea.live.e238-po.insyscd.net/polsatnews2.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Polsat Sport" group-title="IPTV",Polsat Sport
+http://inea.live.e238-po.insyscd.net/polsatsporthd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Polsat Sport Extra" group-title="IPTV",Polsat Sport Extra
+http://inea.live.e238-po.insyscd.net/polsatsportextrahd.smil/chunklist_b2400000.m3u8
+
 #EXTINF:-1 tvg-id="Polsat Sport News" group-title="IPTV",Polsat Sport News 
 http://217.113.147.170:9981/stream/channelid/3
+
+#EXTINF:-1 tvg-id="Polsat Café" group-title="IPTV",Polsat Café
+http://inea.live.e238-po.insyscd.net/polsatcafe.smil/chunklist_2400000.m3u8
+
+#EXTINF:-1 tvg-id="Polsat Play" group-title="IPTV",Polsat Play
+http://inea.live.e238-po.insyscd.net/polsatplay.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 tvg-id="ACTIVE FAMILY HD" group-title="IPTV",ACTIVE FAMILY HD
+http://inea.live.e238-po.insyscd.net/familysporthd.smil/chunklist_2400000.m3u8
+
 
 
 
@@ -117,6 +136,17 @@ http://inea.live.e238-po.insyscd.net/filmboxhd.smil/chunklist_b2400000.m3u8
 http://inea.live.e238-po.insyscd.net/filmboxextra.smil/chunklist_b2400000.m3u8
 
 
+#EXTINF:-1 tvg-id="AXN" group-title="IPTV",AXN
+http://inea.live.e238-po.insyscd.net/axnhd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="AXN Black" group-title="IPTV",AXN Black
+http://inea.live.e238-po.insyscd.net/axnblack.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="AXN White" group-title="IPTV",AXN White
+http://inea.live.e238-po.insyscd.net/axnwhite.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="AXN Spin" group-title="IPTV",AXN Spin
+http://inea.live.e238-po.insyscd.net/axnspinhd.smil/chunklist_2400000.m3u8
 
 
 
@@ -150,6 +180,21 @@ http://inea.live.e238-po.insyscd.net/sundancechannelhd.smil/chunklist_b2400000.m
 
 
 
+#EXTINF:-1 tvg-id="TVS" group-title="IPTV",TVS
+http://inea.live.e238-po.insyscd.net/tvshd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Superstacja" group-title="IPTV",Superstacja
+http://inea.live.e238-po.insyscd.net/superstacja.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 tvg-id="Stopklatka TV" group-title="IPTV",Stopklatka TV
+http://inea.live.e238-po.insyscd.net/stopklatkahd.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 tvg-id="FASHIONBOX HD" group-title="IPTV",FASHIONBOX HD
+http://inea.live.e238-po.insyscd.net/fashionboxhd.smil/chunklist_2400000.m3u8
+
+#EXTINF:-1 tvg-id="FIGHTBOX HD" group-title="IPTV",FIGHTBOX HD
+http://inea.live.e238-po.insyscd.net/fightboxhd.smil/chunklist_2400000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="National Geographic Channel" group-title="IPTV",National Geographic Channel
@@ -157,6 +202,9 @@ http://inea.live.e238-po.insyscd.net/nationalgeo.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo Wild" group-title="IPTV",Nat Geo Wild
 http://inea.live.e238-po.insyscd.net/natgeowildhd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo People" group-title="IPTV",Nat Geo People
+rtmp://37.187.150.209/live/ playpath=natgeop swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1454092639820 live=1 pageUrl=http://looknij.tv/?port=national-people
 
 #EXTINF:-1 tvg-id="Discovery Channel" group-title="IPTV",Discovery Channel 
 http://inea.live.e238-po.insyscd.net/discoverychannelhd.smil/chunklist_b2400000.m3u8
@@ -191,9 +239,6 @@ http://inea.live.e238-po.insyscd.net/tlchd.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-id="ID" group-title="IPTV",ID
 http://inea.live.e238-po.insyscd.net/id.smil/chunklist_b2400000.m3u8
 
-#EXTINF:-1 tvg-id="Superstacja" group-title="IPTV",Superstacja
-http://inea.live.e238-po.insyscd.net/superstacja.smil/chunklist_b2400000.m3u8
-
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="IPTV",Paramount Channel
 rtmp://195.154.217.247:80/liverepeater playpath=142177 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142177&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
@@ -202,6 +247,21 @@ rtmp://195.154.217.247:80/liverepeater playpath=142177 swfUrl=http://cdn.deltatv
 
 #EXTINF:-1 tvg-id="TELETOON+" group-title="IPTV",TELETOON+
 rtmp://149.202.74.234/live/ playpath=teletoon swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1453027569330 live=1 pageUrl=http://looknij.tv/?port=teletoon
+
+#EXTINF:-1 tvg-id="Duck TV" group-title="IPTV",Duck TV
+http://inea.live.e238-po.insyscd.net/ducktv.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" group-title="IPTV",Disney Channel
+http://inea.live.e238-po.insyscd.net/disneychannelhd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" group-title="IPTV",Disney XD
+http://inea.live.e238-po.insyscd.net/disneyxd.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="Disney Junior" group-title="IPTV",Disney Junior
+http://inea.live.e238-po.insyscd.net/disneyjunior.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci" group-title="IPTV",DaVinci
+http://inea.live.e238-po.insyscd.net/davincilearning.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1 tvg-id="Minimini+" group-title="IPTV",Minimini+
 rtmp://85.10.208.218/live/ playpath=mimimimiplus swfUrl=http://cinema-tv.pl/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=6.0.4.5 live=1 pageUrl=http://cinema-tv.pl/bajki/minimini/
