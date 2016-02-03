@@ -23,7 +23,7 @@ rtmp://195.154.217.247:80/liverepeater playpath=143132 swfUrl=http://cdn.deltatv
 
 
 #EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
-rtmp://weeb.tv.itivi.pl/live/ playpath=S8 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVN
+rtmp://149.202.74.239/live playpath=tvn swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754397515 live=1 pageUrl=http://looknij.tv/?port=tvn
 
 #EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
 http://inea.live.e238-po.insyscd.net/tvn24hd.smil/chunklist_b1100000.m3u8
