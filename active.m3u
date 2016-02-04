@@ -25,6 +25,13 @@ rtmp://195.154.217.247:80/liverepeater playpath=143132 swfUrl=http://cdn.deltatv
 #EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
 rtmp://149.202.74.239/live playpath=tvn swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1451754397515 live=1 pageUrl=http://looknij.tv/?port=tvn
 
+#EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
+rtmp://195.154.217.247:80/liverepeater playpath=142329 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142329&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 tvg-id="TVN" group-title="IPTV",TVN
+rtmp://weeb.tv.itivi.pl/live/ playpath=S8 swfUrl=http://itivi.pl/js/jwplayer-7.0.3/jwplayer.flash.swf live=1 pageUrl=http://itivi.pl/program-telewizyjny/TVN
+
+
 #EXTINF:-1 tvg-id="TVN 24" group-title="IPTV",TVN 24
 http://inea.live.e238-po.insyscd.net/tvn24hd.smil/chunklist_b1100000.m3u8
 
@@ -49,7 +56,10 @@ http://inea.live.e238-po.insyscd.net/tvnmeteoactive.smil/chunklist_2400000.m3u8
 
 
 #EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
-http://217.113.147.170:9981/stream/channelid/8
+rtmp://37.187.150.209/live/ playpath=polsat swfUrl=http://looknij.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1454092147688 live=1 pageUrl=http://looknij.tv/?port=polsat
+
+#EXTINF:-1 tvg-id="Polsat" group-title="IPTV",Polsat
+rtmp://195.154.217.247:80/liverepeater playpath=142323 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142323&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-id="Polsat 2" group-title="IPTV",Polsat 2
 rtmp://195.154.217.247:80/liverepeater playpath=142324 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=142324&width=640&height=430 token=Fo5_n0w?U.rA6l3-70w47ch
